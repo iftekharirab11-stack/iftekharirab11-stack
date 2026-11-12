@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Iftekhar+Mohammad+Irab+%7C+AI+%26+Automation+Engineer;Building+Autonomous+Systems%2C+Web+Apps+%26+Linux+Workflows" alt="Iftekhar Mohammad Irab | AI & Automation Engineer — Building Autonomous Systems, Web Apps & Linux Workflows" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Iftekhar+Mohammad+Irab+%7C+AI+%26+Automation+Engineer;Building+Autonomous+Systems%2C+Web+Apps+%26+Linux+Workflows" alt="Iftekhar Mohammad Irab | Trying AI & Automation  — Building Autonomous Systems, Web Apps & Linux Workflows" />
 </p>
 
 ## `~/about`
